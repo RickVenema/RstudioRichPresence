@@ -1,0 +1,4 @@
+Name: RichPresence
+Description: Enables Rich Presence for Discord
+Binding: RichPresenceDiscord
+Interactive: true
